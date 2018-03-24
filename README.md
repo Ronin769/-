@@ -18,7 +18,7 @@
 
 ## INSTALL ##
 
-[python](https://www.python.org/)
+[Python Download](https://www.python.org/)
 
 	pip3 install wxpython 
 	pip3 install pyinstaller
