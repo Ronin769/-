@@ -9,6 +9,10 @@
 
 - Inadequacies: Can't resist man-in-the-middle attacks on public key information.
 
+- Thanks to AI Sweigart
+
+	[Hacking Secret Ciphers with Python](http://inventwithpython.com/hacking)
+
 
 ## Environment ##
 
